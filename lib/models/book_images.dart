@@ -1,0 +1,23 @@
+// Mengambil Image dari Asset, Karena Image dari Api tidak berfungsi
+final List bookImages = [
+    'assets/images/book1.jpg',
+    'assets/images/book2.jpg',
+    'assets/images/book3.jpg',
+    'assets/images/book4.jpg',
+    'assets/images/book5.jpg',
+    'assets/images/book6.jpg',
+    'assets/images/book7.jpg',
+    'assets/images/book8.jpg',
+    'assets/images/book9.jpg',
+    'assets/images/book10.jpg',
+    'assets/images/book11.jpg',
+    'assets/images/book12.jpg',
+    'assets/images/book13.jpg',
+    'assets/images/book14.jpg',
+    'assets/images/book15.jpg',
+    'assets/images/book16.jpg',
+    'assets/images/book17.jpg',
+    'assets/images/book18.jpg',
+    'assets/images/book19.jpg',
+    'assets/images/book20.jpg',
+  ];
